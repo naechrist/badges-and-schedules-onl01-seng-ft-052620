@@ -3,7 +3,7 @@ def badge_maker(name)
   name = "Edsger"
   "Hi, my name is Edsger."
   name = "Ada"
-  ""
+  "Hello, my name is Ada."
   end
 end
 
