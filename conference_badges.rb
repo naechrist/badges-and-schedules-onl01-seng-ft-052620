@@ -1,5 +1,5 @@
 def badge_maker(name)
-  name.each |name|
+  name.each {|name|}
   name = "Edsger"
   "Hello, my name is Edsger."
   name = "Ada"
