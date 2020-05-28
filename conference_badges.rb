@@ -4,7 +4,8 @@ def badge_maker(name)
   "Hi, my name is Edsger."
   name = "Ada"
   "Hello, my name is Ada."
-
+  name = "Arel"
+  ""
 end
 
 def batch_badge_creator(attendees)
