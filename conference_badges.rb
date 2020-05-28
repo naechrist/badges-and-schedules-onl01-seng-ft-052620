@@ -1,7 +1,7 @@
 def badge_maker(name)
   name.each |name|
   name = "Edsger"
-  "Hi, my name is Edsger."
+  "Hello, my name is Edsger."
   name = "Ada"
   "Hello, my name is Ada."
   name = "Arel"
