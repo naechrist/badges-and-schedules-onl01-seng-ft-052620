@@ -4,6 +4,8 @@ def badge_maker(name)
     elsif name = "Ada"
     return "Hello, my name is Ada."
     elsif name = "Charles"
+    return "Hello, my name is Charles."
+    elsif name = "Grace"
     return ""
   end
 end
