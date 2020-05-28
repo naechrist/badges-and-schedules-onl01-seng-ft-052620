@@ -18,4 +18,5 @@ def printer(attendees)
   result = assign_rooms(attendees)
   result.each do |x|
     puts x 
-  
+  end
+end
