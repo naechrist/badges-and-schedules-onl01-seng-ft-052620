@@ -1,6 +1,10 @@
 def badge_maker(name)
   if name = "Edsger"
-    return "Hello, my name is Edsger"
+    return "Hello, my name is Edsger."
+    elsif name = "Ada"
+    return "Hello, my name is Ada."
+    elsif name = "Charles"
+    return ""
   end
 end
 
