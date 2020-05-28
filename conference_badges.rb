@@ -7,6 +7,7 @@ def badge_maker(name)
     return "Hello, my name is Charles."
     elsif name = "Grace"
     return "Hello, my name is Grace."
+    
   end
 end
 
