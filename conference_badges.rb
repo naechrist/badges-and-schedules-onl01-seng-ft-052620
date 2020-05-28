@@ -2,4 +2,3 @@ def badge_maker(names)
   puts "Hello, my name is #{names}."
 end
 puts badge_maker(names)
-names = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
