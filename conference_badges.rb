@@ -7,5 +7,6 @@ attendees.collect { |attendee| badge_maker(attendee) }
 end
 
 def assign_rooms(attendees)
-  attendees.collect { |attendee| 
+  attendees.each_with_index.collect { |attendee, index| "Hello, #{attendee}! You'll be assigned to room #{index}!""}
+
 end
