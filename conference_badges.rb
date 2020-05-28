@@ -1,8 +1,8 @@
 def badge_maker(name)
-  return "Hello, my name is #{name}."
+
   name.each |name|
   if name = "Edsger"
-    puts "Hello, my name is Edsger"
+    return "Hello, my name is Edsger"
   end
 end
 
