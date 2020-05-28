@@ -10,6 +10,6 @@ def assign_rooms(attendees)
   attendees.each_with_index.collect { |attendee, index| "Hello, #{attendee}! You'll be assigned to room #{index + 1}!"}
 end
 
-def printer(inputOne)
+def printer
  inputOne = batch_badge_creator.first + assign_rooms.first
 end
