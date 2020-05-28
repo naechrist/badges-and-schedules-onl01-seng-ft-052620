@@ -1,5 +1,5 @@
 def badge_maker(name)
-  
+    return "Hello, my name is #{name}."
   name.each
   if name = "Edsger"
     return "Hello, my name is Edsger"
